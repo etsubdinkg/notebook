@@ -24,6 +24,7 @@ body {
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 13px;
   background-color: #dddddd;
+  overflow: hidden;
 }
 .App {
   display: flex;
